@@ -2,18 +2,22 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Java
+  - Python
+  - AWS
+  - R
+  - Spring Boot
+  - HTML/CSS + JS
+  - SQL
+  - Git
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Swadha, a computer science and statistics and analytics major at [UNC Chapel Hill](https://www.unc.edu/).
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+[I'm an artist](https://www.unc.edu/). I love the challenge of transforming a concept existing solely in my head into something concrete—expressable to the rest of the world.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Computer science presents this same challenge to me. Coding is the medium that allows me to paint my pictures, data analytics is what drives me: it gives a purpose to my projects and makes them relevant.
+
+Wherever I go, I bring my creativity, work ethic, and motivation to learn. I choose to develop lasting relationships and code projects that can make an impact.
 
 Here are a few technologies I've been working with recently:
