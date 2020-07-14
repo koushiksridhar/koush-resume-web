@@ -1,7 +1,7 @@
 ---
 date: '2015-12-21'
 title: 'Position'
-company: 'Company'
+company: 'Company 3'
 location: 'City, ST'
 range: 'Month - Month Year'
 url: 'website'
