@@ -19,7 +19,7 @@ module.exports = {
         name: 'SwadhaRai',
         short_name: 'SwadhaRai',
         start_url: '/',
-        background_color: config.colors.darkNavy,
+        background_color: config.colors.darkIndigo,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',

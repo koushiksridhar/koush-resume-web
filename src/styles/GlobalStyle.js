@@ -161,7 +161,7 @@ const GlobalStyle = createGlobalStyle`
     }
 
     & > code {
-      background-color: ${colors.lightNavy};
+      background-color: ${colors.lightIndigo};
       color: ${colors.white};
       font-size: ${fontSizes.sm};
       border-radius: ${theme.borderRadius};
@@ -204,7 +204,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   hr {
-    background-color: ${colors.lightestNavy};
+    background-color: ${colors.lightestIndigo};
     height: 1px;
     border-width: 0px;
     border-style: initial;

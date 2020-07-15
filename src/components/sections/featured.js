@@ -47,7 +47,7 @@ const StyledDescription = styled.div`
   position: relative;
   z-index: 2;
   padding: 25px;
-  background-color: ${colors.lightNavy};
+  background-color: ${colors.lightIndigo};
   color: ${colors.lightSlate};
   font-size: ${fontSizes.lg};
   border-radius: ${theme.borderRadius};
@@ -113,12 +113,12 @@ const StyledFeaturedImg = styled(Img)`
   border-radius: ${theme.borderRadius};
   position: relative;
   mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1) brightness(90%);
+  filter: grayscale(0%) contrast(1) brightness(90%);
   ${media.tablet`
     object-fit: cover;
     width: auto;
     height: 100%;
-    filter: grayscale(100%) contrast(1) brightness(80%);
+    filter: grayscale(0%) contrast(1) brightness(80%);
   `};
 `;
 const StyledImgContainer = styled.a`
@@ -127,7 +127,7 @@ const StyledImgContainer = styled.a`
   grid-row: 1 / -1;
   position: relative;
   z-index: 1;
-  background-color: ${colors.green};
+  background-color: ${colors.white};
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};
