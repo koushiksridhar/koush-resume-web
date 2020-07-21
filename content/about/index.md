@@ -12,11 +12,11 @@ skills:
   - Git
 ---
 
-Hello! I'm Swadha, a computer science and statistics and analytics major at [UNC Chapel Hill](https://www.unc.edu/).
+Hello! I'm Swadha, a rising senior at [UNC Chapel Hill](https://www.unc.edu/). I'm majoring in computer science and statistics and analytics.
 
 [I'm an artist](https://www.unc.edu/). I love the challenge of transforming a concept existing solely in my head into something concrete—expressable to the rest of the world.
 
-Computer science presents this same challenge to me. Coding is the medium that allows me to paint my pictures, data analytics is what drives me: it gives a purpose to my projects and makes them relevant.
+Computer science presents this same challenge to me. Coding is the medium that allows me to paint my pictures, data analytics is what drives me: it gives my projects purpose.
 
 Wherever I go, I bring my creativity, work ethic, and motivation to learn. I choose to develop lasting relationships and code projects that can make an impact.
 

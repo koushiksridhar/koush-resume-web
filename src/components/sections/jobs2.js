@@ -3,14 +3,15 @@ import PropTypes from 'prop-types';
 import sr from '@utils/sr';
 import { srConfig } from '@config';
 import styled from 'styled-components';
-import { theme, mixins, media, Section, Heading } from '@styles';
+import { theme, mixins, media, Section } from '@styles';
 const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
   position: relative;
   max-width: 850px;
-  padding: 150px 0px 0px 0px;
+  padding: 50px 0px 150px 0px;
 `;
+
 const StyledTabs = styled.div`
   display: flex;
   align-items: flex-start;
@@ -155,7 +156,7 @@ const StyledJobDetails = styled.h5`
   }
 `;
 
-const Jobs = ({ data }) => {
+const Jobs2 = ({ data }) => {
   const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);
   const tabs = useRef([]);
@@ -196,7 +197,6 @@ const Jobs = ({ data }) => {
 
   return (
     <StyledContainer id="jobs" ref={revealContainer}>
-      <Heading>Experience and Involvements</Heading>
       <StyledTabs>
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyPressed(e)}>
           {data &&
@@ -255,8 +255,8 @@ const Jobs = ({ data }) => {
   );
 };
 
-Jobs.propTypes = {
+Jobs2.propTypes = {
   data: PropTypes.array.isRequired,
 };
 
-export default Jobs;
+export default Jobs2;
