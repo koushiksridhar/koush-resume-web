@@ -1,7 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Layout, Hero, About, Jobs, Jobs2, Featured, Projects, Contact } from '@components';
+import { Layout, Hero, About, Jobs, Involvements, Featured, Projects, Contact } from '@components';
 import styled from 'styled-components';
 import { Main } from '@styles';
 
@@ -15,7 +15,7 @@ const IndexPage = ({ location, data }) => (
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
       <Jobs data={data.jobs.edges} />
-      <Jobs2 data={data.jobs.edges} />
+      <Involvements data={data.involvements.edges} />
       <Featured data={data.featured.edges} />
       <Projects data={data.projects.edges} />
       <Contact data={data.contact.edges} />
@@ -80,8 +80,8 @@ export const pageQuery = graphql`
         }
       }
     }
-    jobs2: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/jobs/" } }
+    involvements: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/involvements/" } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {

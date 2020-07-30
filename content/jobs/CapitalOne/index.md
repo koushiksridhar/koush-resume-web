@@ -7,7 +7,7 @@ range: 'June 2020 - Present'
 url: 'https://campus.capitalone.com/technology-program?id=internship'
 ---
 
-- Designing and developing a feature toggle API proxy to switch between different app functionalities at runtime (Spring, Angular, NodeJS, Git, Java, TypeScript)
-- Enabling continuous integration and increased code experimentation for 50+ software engineers across 14 teams
-- Establishing and leading 10 weekly #Womxn-in-Tech meetups to empower 60+ interns
+- Executing development of a feature toggle API proxy through the full software development life cycle with Agile methodologies (Spring, Angular, NodeJS, Git, Java, TypeScript)
+- Increasing code experimentation and enabling continuous integration and deployment across 10 engineering teams
+- Establishing and leading 10 weekly #Women-in-Tech meetups to empower 60+ interns
 - Pursuing AWS Certified Solutions Architect certification by August 2020

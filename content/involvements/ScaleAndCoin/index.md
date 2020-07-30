@@ -1,12 +1,12 @@
 ---
 date: '2019-10-01'
-title: 'Phillips Ambassador'
-company: 'UNC'
+title: 'Founding Brother'
+company: 'Scale & Coin'
 location: 'Chapel Hill, NC'
 range: 'October 2019 - Present'
-url: 'https://phillips.unc.edu/'
+url: 'https://uncscaleandcoin.wixsite.com/mysite'
 ---
 
-- Selected as 1 of 6 Phillips scholars across Asia for the [Spring 2020 Cohort](https://www.unc.edu/posts/2019/12/12/six-undergraduates-selected-as-phillips-ambassadors-for-study-in-asia/)
-- Criteria: academic achievement, strong communication skills, intellectual curiosity and ambition, evidence of generous service, and a record of leadership
-- Engaging in a reflective global studies course, [social media takeovers](https://www.instagram.com/p/B8wXWZqgbmT/), and "Give Back" awareness projects
+- Created and lead Scale&Coin Valley, a resource group for industry advice and opportunities
+- Contributed to a 5-week marketing campaign for formal rush by hosting lunches, organizing rush service events, and conversing with 50+ rushees
+- Mentored 15 pledges throughout their pledging semester as a Membership Committee member

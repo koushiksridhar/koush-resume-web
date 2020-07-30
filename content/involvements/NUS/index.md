@@ -1,11 +1,12 @@
 ---
 date: '2020-01-05'
 title: 'Exchange Student'
-company: 'National University of Singapore'
+company: 'NUS'
 location: 'Singapore, SG'
-range: 'https://www.comp.nus.edu.sg/about/'
+range: 'January 2020 - May 2020'
+url: 'http://www.nus.edu.sg/'
 ---
 
-- Studied at Asia's top global university as 1 of 4 UNC students selected for [NUS's School of Computing](https://www.topuniversities.com/university-rankings/university-subject-rankings/2020/engineering-technology)
+- Studied at Asia's top global university as 1 of 4 UNC students selected for its renowned [School of Computing](https://www.comp.nus.edu.sg/about/)
 - Developed critical teamwork and time management skills by communicating with 5 professors and 2 class groups upon an early rearrival home
-- Highlighted as the [Featured Artist](https://www.instagram.com/p/B7GDBJmFTH8/) (by NUS Arterro) and for 2 Exchanger Spotlights (by NUS Global Relations Office and NUS Peer Advising)
+- Highlighted as a [featured artist](https://www.instagram.com/p/B7GDBJmFTH8/) (NUS Arterro) and for 2 exchanger spotlights (NUS Global Relations Office, NUS Peer Advising)

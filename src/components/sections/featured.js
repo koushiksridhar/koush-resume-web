@@ -118,7 +118,7 @@ const StyledFeaturedImg = styled(Img)`
     object-fit: cover;
     width: auto;
     height: 100%;
-    filter: grayscale(0%) contrast(1) brightness(80%);
+    filter: grayscale(0%) contrast(1) brightness(90%);
   `};
 `;
 const StyledImgContainer = styled.a`
@@ -155,7 +155,7 @@ const StyledImgContainer = styled.a`
     bottom: 0;
     z-index: 3;
     transition: ${theme.transition};
-    background-color: ${colors.navy};
+    background-color: ${colors.indigo};
     mix-blend-mode: screen;
   }
 `;

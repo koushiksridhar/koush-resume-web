@@ -20,4 +20,4 @@ Computer science presents this same challenge to me. Coding is the medium that a
 
 Wherever I go, I bring my creativity, work ethic, and motivation to learn. I choose to develop lasting relationships and code projects that can make an impact.
 
-Here are a few technologies I've been working with recently:
+Here are some of the technologies I've been working with recently:
