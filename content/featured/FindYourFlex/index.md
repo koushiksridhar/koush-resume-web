@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Find Your Flex'
+title: 'Find Your Flex @ Pearl Hacks'
 cover: './flex.png'
 github: 'https://github.com/sgoad13/flex'
 external: 'https://devpost.com/software/flex-y582up'

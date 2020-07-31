@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Swadha Rai is a software engineer based in Chapel Hill, NC. She has an interest in full stack development, data science, business, and social good.',
   siteKeywords:
-    'Swadha Rai, Swadha, Rai, srai, swadharai, software engineer, front-end engineer, web developer, javascript, unc chapel hill',
+    'Swadha Rai, Swadha, Rai, computer science, statistics, srai, swadharai, software engineer, front-end engineer, web developer, javascript, unc chapel hill',
   siteUrl: 'https://swadharai.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',

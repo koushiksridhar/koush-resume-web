@@ -1,11 +1,11 @@
 ---
 date: '1'
-title: 'ARound'
+title: 'ARound @ HackMIT'
 cover: './around.png'
 github: 'https://github.com/SixtyGig/ARound_HackMIT'
 external: 'https://devpost.com/software/around-b2ew9j'
 tech:
-  - Unity 3DS
+  - Unity 3D
   - Google AR Core
   - Java
   - Amadeus API
