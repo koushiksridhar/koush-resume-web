@@ -3,11 +3,10 @@ date: '2020-06-01'
 title: 'Software Engineering Intern'
 company: 'Capital One'
 location: 'McLean, VA (Remote)'
-range: 'June 2020 - Present'
+range: 'June 2020 - August 2020'
 url: 'https://campus.capitalone.com/technology-program?id=internship'
 ---
 
-- Executing development of a feature toggle API proxy through the full software development life cycle (SDLC) with Agile methodologies (Spring, Angular, NodeJS, Git, Java, TypeScript)
-- Increasing code experimentation and enabling continuous integration and deployment across 10 engineering teams
-- Establishing and leading weekly #Women-in-Tech meetups to empower 60+ interns
-- Pursuing AWS Certified Cloud Practitioner certification by August 2020
+- Executed development of a feature toggle API proxy through a 7-week SDLC, enabling code experimentation, agile integration, and continuous deployment across the Finance Platform
+- Tech Stack: Spring, Angular, NodeJS, Java, TypeScript, Git/GitHub, Jira Scrum
+- Designed, launched, and personally led weekly #Women-in-Tech workshops to empower 60+ interns

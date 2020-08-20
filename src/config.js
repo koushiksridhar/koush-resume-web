@@ -22,10 +22,7 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/swadharai',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/swadharai',
-    },
+
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/swadharai',
