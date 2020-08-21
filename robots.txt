@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://swadharai.com/sitemap.xml
+Host: https://swadharai.com
