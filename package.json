@@ -1,12 +1,6 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "swadharai.github.io",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bchiang7/v4"
-  },
   "keywords": [
     "gatsby"
   ],
@@ -56,7 +50,7 @@
     "lodash": "^4.17.15",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
-    "react": "^16.10.2",
+    "react": "^16.13.1",
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.1",
     "react-transition-group": "^4.3.0",
