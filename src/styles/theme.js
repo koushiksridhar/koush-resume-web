@@ -1,19 +1,19 @@
 import { hex2rgba } from '@utils';
 
-const ACCENT = '#64ffda';
-const DARK_IG = '#100029';
-const IG = '#1C0442';
+const ACCENT = '#47FFF3';
+const DARK_IG = '#1F0545';
+const IG = '#260656';
 
 const theme = {
   colors: {
     darkIndigo: DARK_IG,
     navy: IG,
-    lightIndigo: '#262059',
+    lightIndigo: '#39276D',
     lightestIndigo: '#303C55',
-    slate: '#8892b0',
-    lightSlate: '#a8b2d1',
-    lightestSlate: '#ccd6f6',
-    white: '#e6f1ff',
+    slate: '#8B94B1',
+    lightSlate: '#B6C0E0',
+    lightestSlate: '#CED7F5',
+    white: '#EDF4FF',
     green: ACCENT,
     transGreen: hex2rgba(ACCENT, 0.07),
     shadowIndigo: hex2rgba(DARK_IG, 0.7),
