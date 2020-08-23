@@ -8,5 +8,5 @@ url: 'http://www.nus.edu.sg/'
 ---
 
 - Studied at Asia's top global university as 1 of 4 UNC students selected for its renowned [School of Computing](https://www.comp.nus.edu.sg/about/)
-- Developed critical teamwork and time management skills by communicating with 5 professors and 2 class groups upon an early rearrival home
 - Highlighted as a [featured artist](https://www.instagram.com/p/B7GDBJmFTH8/) (NUS Arterro) and for 2 exchanger spotlights (NUS Global Relations Office, NUS Peer Advising)
+- Created a networking group for UNC exchange students and a resource group for vegan/vegetarian foodies

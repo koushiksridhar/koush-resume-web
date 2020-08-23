@@ -7,6 +7,6 @@ range: 'July 2017 - Present'
 url: 'https://www.unc.edu/'
 ---
 
-- Involvements: Rewriting the Code (RTC), Girls Who Code - Teaching Assistant, Carolina Analytics & Data Science, Women in Computer Science, Undergraduate Art Association
-- Awards & Honors: RTC Fellow, Phillips Ambassador, UNC Grace Hopper Grant Recipient, Gold Presidential Volunteer Service Award Recipient, Scholastic Art & Writing Gold Key Awardee
+- Involvements: [Rewriting the Code (RTC)](Fellowship Program), [Girls Who Code](http://girlswhocode.web.unc.edu/) - Teaching Assistant, [Carolina Analytics & Data Science](https://carolinadata.unc.edu/), [Women in Computer Science](http://uncwics.web.unc.edu/about/), UNC Art Association
+- Awards & Honors: RTC Fellow, [Phillips Ambassador](UNC Phillips), UNC Grace Hopper Grant Recipient, Gold [President's Volunteer Service Award](https://www.presidentialserviceawards.gov/) Recipient, [Scholastic Art & Writing](https://www.barton.edu/barton-hosts-the-2017-scholastic-art-awards-for-easterncentral-n-c-region/) Gold Key Awardee
 - Interests: Creating mixed media art, trying new foods, reading, traveling, baking, volunteering

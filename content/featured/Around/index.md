@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-An AR app enabling users to navigate potential event venues in 3D and cater them toward custom preferences. The implemented POC is currently for Amadeus Hotels.
+An android AR app enabling users to navigate potential event venues in 3D and cater them toward custom preferences. The implemented proof of concept is currently for Amadeus Hotels.
