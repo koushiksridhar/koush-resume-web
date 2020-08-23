@@ -1,6 +1,6 @@
 ---
 date: '2019-06-03'
-title: 'Software Engineering & Data Analyst Intern'
+title: 'Data Analyst Intern'
 company: 'MetLife'
 location: 'Cary, NC'
 range: 'June 2019 - December 2019'
